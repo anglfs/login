@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">星蓝钱包</string>
+    <!-- Strings related to login -->
+    <string name="prompt_phone">手机号</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_sign_in_short">注册</string>
+    <string name="welcome">欢迎 !</string>
+    <string name="invalid_username">不是有效的用户名</string>
+    <string name="invalid_password">密码不正确</string>
+    <string name="login_failed">登录失败</string>
+    <string name="login_username">账号</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_tnew">Tnew</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="touch_2_auth">触摸传感器以验证指纹</string>
+    <string name="biometric_dialog_state_failed">验证失败,请重试</string>
+    <string name="biometric_dialog_state_error">验证失败,请使用账号密码登录</string>
+    <string name="biometric_dialog_state_succeeded">验证成功</string>
+    <string name="title">验证指纹</string>
+    <string name="use_password">使用账号密码登录</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_test">test</string>
+</resources>
